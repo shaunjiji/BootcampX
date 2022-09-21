@@ -15,5 +15,5 @@ created_at TIMESTAMP,
 started_at TIMESTAMP,
 completed_at TIMESTAMP,
 student_feedback TEXT,
-teacher_feeedback TEXT
+teacher_feedback TEXT
 );
